@@ -270,9 +270,3 @@ The detailed documentation is in [`docs/about/`](docs/about/):
   path, data structures, numerical methods, and reproducibility.
 - [Data and workflow](docs/about/data-and-workflow.md): configuration,
   outputs, plots, convergence, and recommended usage.
-
-## License
-
-The package metadata declares the MIT license. Confirm and complete the
-repository's license distribution requirements before publishing if a
-standalone `LICENSE` file is required by your hosting or release workflow.
